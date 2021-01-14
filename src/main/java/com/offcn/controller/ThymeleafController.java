@@ -36,4 +36,11 @@ public class ThymeleafController {
     public String forth(){
         return null;
     }
+
+    public void test1(){
+        
+    }
+    public void test2(){
+
+    }
 }
